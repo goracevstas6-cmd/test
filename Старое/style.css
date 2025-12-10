@@ -1,0 +1,33 @@
+/*
+коммент
+p{
+    color:#c90bcf; 
+    font-size: 15px;
+    /*padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding: 40px 40px 20px 20px;
+
+    padding: 20px 10px;
+}
+
+body{
+    background-color: rgb(206, 224, 141);
+}
+strong{
+    color: rgb(143, 143, 143);
+} */
+body{
+    background-image: url(https://img.freepik.com/free-vector/set-wild-animals_1308-29055.jpg?semt=ais_hybrid&w=740&q=80);
+    background-attachment: fixed;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: 800px 1px;
+}
+
+h1, h2, p{
+    margin-right: 60%;
+    padding: 20px;
+    background-color: darkkhaki;
+}

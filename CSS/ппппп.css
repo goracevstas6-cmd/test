@@ -1,0 +1,84 @@
+ ul, li{
+    margin: 0;
+    padding: 0;
+ }
+
+.dab{
+    list-style: none;
+    width: 100%;
+ }
+
+.rrr{
+    float: left;
+    width: auto;
+ }
+
+ a{
+    background-color: hwb(146 6% 73%);
+    color: blueviolet;
+    display: block;
+    font: bold 13px sans-serif;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+
+ }
+
+.spider{
+    padding: 30px;
+    margin: 10px;
+    background-color: brown;
+    list-style: square;
+}
+body{
+    background-color: #272727;
+}
+#container{
+    width: auto;
+}
+
+#header{
+    background-color: red;
+    height: 300px;
+    background-image: url(https://i.pinimg.com/originals/9a/9c/e9/9a9ce90fc5f2bb2fcedc90fd154524f9.jpg);
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-position: 600px 1px;
+}
+
+#navigation{
+    background-color: aquamarine;
+    height: 40px;
+}
+
+#content{
+    background-color: aquamarine;
+    float: left;
+    width: 75%;
+    height: 400px;
+    background-image: url(https://avatars.mds.yandex.net/get-znatoki-cover/1635738/2a0000016ce937e6d265ef5c2f8f143f52d6/orig);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: 600px 1px;
+}
+
+#sidebar{
+    background-color: hsl(160, 97%, 25%);
+    float: right;
+    width: 25%;
+    height: 400px;
+}
+
+#clear{
+    clear: both;
+}
+
+#footer{
+    margin-top: 4px;
+    background-color: #50796b;
+    height: 150px;
+}
+
+p{
+    color: hsl(180, 5%, 40%);
+}
